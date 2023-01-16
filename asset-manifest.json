@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text4U-React/static/css/main.198f9aa8.css",
+    "main.js": "/Text4U-React/static/js/main.88185bd9.js",
+    "index.html": "/Text4U-React/index.html",
+    "main.198f9aa8.css.map": "/Text4U-React/static/css/main.198f9aa8.css.map",
+    "main.88185bd9.js.map": "/Text4U-React/static/js/main.88185bd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198f9aa8.css",
+    "static/js/main.88185bd9.js"
+  ]
+}
